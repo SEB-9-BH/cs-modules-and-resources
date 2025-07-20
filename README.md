@@ -8,7 +8,7 @@ These modules provide an overview of fundamental concepts in computer science, w
 
 ## Contents
 
-- [ Key Areas of Computer Science](#key-areas-of-computer-science)
+- [Key Areas of Computer Science](#key-areas-of-computer-science)
 - [Lessons and Exercises](#lessons-and-exercises)
 - [External Resources](#external-resources)
 
