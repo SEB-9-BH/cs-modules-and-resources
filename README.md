@@ -14,7 +14,7 @@ These modules provide an overview of fundamental concepts in computer science, w
 
 ## Key Areas of Computer Science
 
-<table border="1">
+<table>
     <thead>
         <tr>
             <th>Concept</th>
@@ -88,7 +88,7 @@ These modules provide an overview of fundamental concepts in computer science, w
 
 ## Lessons and Exercises
 
-<table border="1">
+<table>
     <thead>
       <tr>
         <th>Concept</th>
@@ -173,7 +173,7 @@ These modules provide an overview of fundamental concepts in computer science, w
 
 ## External Resources
 
-<table border="1">
+<table>
     <thead><tr><th>Link</th><th>Purpose</th></tr></thead>
     <tr>
       <td><a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard University's CS50 Course</a></td>
