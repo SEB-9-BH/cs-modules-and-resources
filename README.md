@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.imgur.com/CYx9Es5.png" />
+<img width="100%" src="./assets/hero.png" />
 
 # Computer Science Modules & Resources
 
